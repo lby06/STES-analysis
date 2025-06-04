@@ -27,6 +27,7 @@ Authors: Boyuan Liu, Jiahao Ma, Zeyang Long, Xueyuan Cui, and Yi Wang
 ├── basic.ipynb            # Basic analysis notebook
 ├── carbon.ipynb           # Carbon-related analysis notebook  
 ├── data_reading.ipynb     # Notebook for load curve visualization (Generates Fig.2)
+├── Wuhan.ipynb            # Notebook for Wuhan curve of STES capacity v.s carbon price as noice needs to be added to reach optimal result
 └── scaling.ipynb          # Scaling analysis notebook
 ```
 ## Experiments
