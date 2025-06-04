@@ -12,9 +12,10 @@ Authors: Boyuan Liu, Jiahao Ma, Zeyang Long, Xueyuan Cui, and Yi Wang
 - [Pandas]
 - [NumPy]
 - [Matplotlib]
-- [Jupyter Notebook](https://jupyter.org/)
+- [Jupyter Notebook]
 ## Structure
 '''
+```plaintext
 .
 ├── data/                   # Contains all program load data
 │   └── all_data.json      # Raw data used by the programs
@@ -28,4 +29,6 @@ Authors: Boyuan Liu, Jiahao Ma, Zeyang Long, Xueyuan Cui, and Yi Wang
 ├── carbon.ipynb           # Carbon-related analysis notebook  
 ├── data_reading.ipynb     # Notebook for load curve visualization (Generates Fig.2)
 └── scaling.ipynb          # Scaling analysis notebook
-'''
+```
+## Experiments
+For reproduction of experiment results, please run all the code in each jupyter note book(The result will update in the corresponding forders)
