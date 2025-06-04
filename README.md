@@ -14,7 +14,6 @@ Authors: Boyuan Liu, Jiahao Ma, Zeyang Long, Xueyuan Cui, and Yi Wang
 - [Matplotlib]
 - [Jupyter Notebook]
 ## Structure
-'''
 ```plaintext
 .
 ├── data/                   # Contains all program load data
