@@ -16,8 +16,8 @@ Authors: Boyuan Liu, Jiahao Ma, Zeyang Long, Xueyuan Cui, and Yi Wang
 ## Structure
 ```plaintext
 .
-├── data/                   # Contains all program load data
-│   └── all_data.json      # Raw data used by the programs
+├── data/                   # Contains all program load data（hiden）
+│   └── all_data.json      # Raw data used by the programs (hiden)
 │
 ├── basic_results/         # Output directory for basic.ipynb
 ├── carbon_results/        # Output directory for carbon.ipynb  
